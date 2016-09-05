@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="default"
+		module="realtimerecommender_2.11"
+		revision="1.0"
+		conf="runtime-internal"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
+		date="20160905104541"/>
+	<dependencies>
+		<module organisation="com.microsoft.azure" name="azure-storage">
+			<revision name="4.0.0" status="release" pubdate="20151007185609" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/Azure/azure-storage-java" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="7">
+				<license name="The Apache Software License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="3734" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\com.microsoft.azure\azure-storage\ivy-4.0.0.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/com/microsoft/azure/azure-storage/4.0.0/azure-storage-4.0.0.pom"/>
+				<caller organisation="default" name="realtimerecommender_2.11" conf="compile, runtime-internal, runtime, optional" rev="4.0.0" rev-constraint-default="4.0.0" rev-constraint-dynamic="4.0.0" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="azure-storage" type="jar" ext="jar" status="no" details="" size="697311" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\com.microsoft.azure\azure-storage\jars\azure-storage-4.0.0.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/com/microsoft/azure/azure-storage/4.0.0/azure-storage-4.0.0.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.apache.commons" name="commons-lang3">
+			<revision name="3.4" status="release" pubdate="20150403133100" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://commons.apache.org/proper/commons-lang/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="10">
+				<metadata-artifact status="no" details="" size="11679" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\org.apache.commons\commons-lang3\ivy-3.4.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.pom"/>
+				<caller organisation="com.microsoft.azure" name="azure-storage" conf="default, compile, runtime, master" rev="3.4" rev-constraint-default="3.4" rev-constraint-dynamic="3.4" callerrev="4.0.0"/>
+				<artifacts>
+					<artifact name="commons-lang3" type="jar" ext="jar" status="no" details="" size="434678" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\org.apache.commons\commons-lang3\jars\commons-lang3-3.4.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.slf4j" name="slf4j-api">
+			<revision name="1.7.12" status="release" pubdate="20150326205000" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.slf4j.org" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="9">
+				<metadata-artifact status="no" details="" size="4694" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\org.slf4j\slf4j-api\ivy-1.7.12.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.pom"/>
+				<caller organisation="com.microsoft.azure" name="azure-storage" conf="default, compile, runtime, master" rev="1.7.12" rev-constraint-default="1.7.12" rev-constraint-dynamic="1.7.12" callerrev="4.0.0"/>
+				<artifacts>
+					<artifact name="slf4j-api" type="jar" ext="jar" status="no" details="" size="32127" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.7.12.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.fasterxml.jackson.core" name="jackson-core">
+			<revision name="2.6.0" status="release" pubdate="20150717022451" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/FasterXML/jackson-core" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="8">
+				<metadata-artifact status="no" details="" size="6891" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\com.fasterxml.jackson.core\jackson-core\ivy-2.6.0.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-core/2.6.0/jackson-core-2.6.0.pom"/>
+				<caller organisation="com.microsoft.azure" name="azure-storage" conf="default, compile, runtime, master" rev="2.6.0" rev-constraint-default="2.6.0" rev-constraint-dynamic="2.6.0" callerrev="4.0.0"/>
+				<artifacts>
+					<artifact name="jackson-core" type="bundle" ext="jar" status="no" details="" size="258837" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\com.fasterxml.jackson.core\jackson-core\bundles\jackson-core-2.6.0.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/com/fasterxml/jackson/core/jackson-core/2.6.0/jackson-core-2.6.0.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.databricks" name="spark-csv_2.10">
+			<revision name="1.4.0" status="release" pubdate="20160304190426" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/databricks/spark-csv" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="4">
+				<license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.html"/>
+				<metadata-artifact status="no" details="" size="4102" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\com.databricks\spark-csv_2.10\ivy-1.4.0.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/com/databricks/spark-csv_2.10/1.4.0/spark-csv_2.10-1.4.0.pom"/>
+				<caller organisation="default" name="realtimerecommender_2.11" conf="compile, runtime-internal, runtime, optional" rev="1.4.0" rev-constraint-default="1.4.0" rev-constraint-dynamic="1.4.0" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="spark-csv_2.10" type="jar" ext="jar" status="no" details="" size="157294" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\com.databricks\spark-csv_2.10\jars\spark-csv_2.10-1.4.0.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/com/databricks/spark-csv_2.10/1.4.0/spark-csv_2.10-1.4.0.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.univocity" name="univocity-parsers">
+			<revision name="1.5.1" status="release" pubdate="20150408235600" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://github.com/uniVocity/univocity-parsers" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="6">
+				<license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="3624" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\com.univocity\univocity-parsers\ivy-1.5.1.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/com/univocity/univocity-parsers/1.5.1/univocity-parsers-1.5.1.pom"/>
+				<caller organisation="com.databricks" name="spark-csv_2.10" conf="default, compile, runtime, master" rev="1.5.1" rev-constraint-default="1.5.1" rev-constraint-dynamic="1.5.1" callerrev="1.4.0"/>
+				<artifacts>
+					<artifact name="univocity-parsers" type="jar" ext="jar" status="no" details="" size="148962" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\com.univocity\univocity-parsers\jars\univocity-parsers-1.5.1.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/com/univocity/univocity-parsers/1.5.1/univocity-parsers-1.5.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.apache.commons" name="commons-csv">
+			<revision name="1.1" status="release" pubdate="20141116204800" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://commons.apache.org/proper/commons-csv/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="5">
+				<metadata-artifact status="no" details="" size="10846" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\org.apache.commons\commons-csv\ivy-1.1.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/apache/commons/commons-csv/1.1/commons-csv-1.1.pom"/>
+				<caller organisation="com.databricks" name="spark-csv_2.10" conf="default, compile, runtime, master" rev="1.1" rev-constraint-default="1.1" rev-constraint-dynamic="1.1" callerrev="1.4.0"/>
+				<artifacts>
+					<artifact name="commons-csv" type="jar" ext="jar" status="no" details="" size="36888" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\org.apache.commons\commons-csv\jars\commons-csv-1.1.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/apache/commons/commons-csv/1.1/commons-csv-1.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-library">
+			<revision name="2.10.5" status="release" pubdate="20150227015400" resolver="sbt-chain" artresolver="sbt-chain" evicted="latest-revision" evicted-reason="" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.10.5/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="-1">
+				<license name="BSD-like" url="http://www.scala-lang.org/downloads/license.html          "/>
+				<metadata-artifact status="no" details="" size="2701" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\org.scala-lang\scala-library\ivy-2.10.5.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/scala-lang/scala-library/2.10.5/scala-library-2.10.5.pom"/>
+				<evicted-by rev="2.11.8"/>
+				<caller organisation="com.databricks" name="spark-csv_2.10" conf="default, compile, runtime, master" rev="2.10.5" rev-constraint-default="2.10.5" rev-constraint-dynamic="2.10.5" callerrev="1.4.0"/>
+				<artifacts>
+				</artifacts>
+			</revision>
+			<revision name="2.11.8" status="release" pubdate="20160309041604" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.8/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master, runtime(*), master(compile), compile(*)" position="0">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="no" details="" size="2685" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\org.scala-lang\scala-library\ivy-2.11.8.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.pom"/>
+				<caller organisation="com.databricks" name="spark-csv_2.10" conf="default, compile, runtime, master" rev="2.10.5" rev-constraint-default="2.10.5" rev-constraint-dynamic="2.10.5" callerrev="1.4.0"/>
+				<caller organisation="default" name="realtimerecommender_2.11" conf="compile, runtime-internal, runtime, optional" rev="2.11.8" rev-constraint-default="2.11.8" rev-constraint-dynamic="2.11.8" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="scala-library" type="jar" ext="jar" status="no" details="" size="5744974" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.apache.commons" name="commons-email">
+			<revision name="1.4" status="release" pubdate="20150518204000" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://commons.apache.org/proper/commons-email/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="1">
+				<metadata-artifact status="no" details="" size="12460" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\org.apache.commons\commons-email\ivy-1.4.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/apache/commons/commons-email/1.4/commons-email-1.4.pom"/>
+				<caller organisation="default" name="realtimerecommender_2.11" conf="compile, runtime-internal, runtime, optional" rev="1.4" rev-constraint-default="1.4" rev-constraint-dynamic="1.4" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="commons-email" type="jar" ext="jar" status="no" details="" size="51239" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\org.apache.commons\commons-email\jars\commons-email-1.4.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/apache/commons/commons-email/1.4/commons-email-1.4.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="javax.activation" name="activation">
+			<revision name="1.1.1" status="release" pubdate="20091023192603" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://java.sun.com/javase/technologies/desktop/javabeans/jaf/index.jsp" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="3">
+				<license name="COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0" url="https://glassfish.dev.java.net/public/CDDLv1.0.html"/>
+				<metadata-artifact status="no" details="" size="2674" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\javax.activation\activation\ivy-1.1.1.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/javax/activation/activation/1.1.1/activation-1.1.1.pom"/>
+				<caller organisation="com.sun.mail" name="javax.mail" conf="compile, runtime" rev="1.1" rev-constraint-default="1.1" rev-constraint-dynamic="1.1" callerrev="1.5.2"/>
+				<caller organisation="org.apache.commons" name="commons-email" conf="default, compile, runtime, master" rev="1.1.1" rev-constraint-default="1.1.1" rev-constraint-dynamic="1.1.1" callerrev="1.4"/>
+				<artifacts>
+					<artifact name="activation" type="jar" ext="jar" status="no" details="" size="69409" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\javax.activation\activation\jars\activation-1.1.1.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/javax/activation/activation/1.1.1/activation-1.1.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+			<revision name="1.1" status="release" pubdate="20080831124538" resolver="sbt-chain" artresolver="sbt-chain" evicted="latest-revision" evicted-reason="" homepage="http://java.sun.com/products/javabeans/jaf/index.jsp" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="-1">
+				<license name="Common Development and Distribution License (CDDL) v1.0" url="https://glassfish.dev.java.net/public/CDDLv1.0.html"/>
+				<metadata-artifact status="no" details="" size="2747" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\javax.activation\activation\ivy-1.1.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/javax/activation/activation/1.1/activation-1.1.pom"/>
+				<evicted-by rev="1.1.1"/>
+				<caller organisation="com.sun.mail" name="javax.mail" conf="compile, runtime" rev="1.1" rev-constraint-default="1.1" rev-constraint-dynamic="1.1" callerrev="1.5.2"/>
+				<caller organisation="org.apache.commons" name="commons-email" conf="default, compile, runtime, master" rev="1.1.1" rev-constraint-default="1.1.1" rev-constraint-dynamic="1.1.1" callerrev="1.4"/>
+				<artifacts>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.sun.mail" name="javax.mail">
+			<revision name="1.5.2" status="release" pubdate="20140503001500" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="2">
+				<metadata-artifact status="no" details="" size="6868" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\com.sun.mail\javax.mail\ivy-1.5.2.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/com/sun/mail/javax.mail/1.5.2/javax.mail-1.5.2.pom"/>
+				<caller organisation="org.apache.commons" name="commons-email" conf="default, compile, runtime, master" rev="1.5.2" rev-constraint-default="1.5.2" rev-constraint-dynamic="1.5.2" callerrev="1.4"/>
+				<artifacts>
+					<artifact name="javax.mail" type="jar" ext="jar" status="no" details="" size="571102" time="0" location="C:\Users\sanjay.vivekanandan\.ivy2\cache\com.sun.mail\javax.mail\jars\javax.mail-1.5.2.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/com/sun/mail/javax.mail/1.5.2/javax.mail-1.5.2.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>

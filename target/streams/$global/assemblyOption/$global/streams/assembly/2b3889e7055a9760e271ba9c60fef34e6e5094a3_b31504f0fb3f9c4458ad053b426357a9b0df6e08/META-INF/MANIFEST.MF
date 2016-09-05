@@ -1,0 +1,1048 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.7.0_45
+Built-By: XSTOREXCLIENTBL$
+Created-By: Apache Maven
+Archiver-Version: Plexus Archiver
+
+Name: com/microsoft/azure/storage/ServicePropertiesSerializer.class
+SHA1-Digest: fSB1uzbGosFEtWHDuevTxpoDm2k=
+
+Name: com/microsoft/azure/storage/RetryNoRetry.class
+SHA1-Digest: obRTlsWGS/80IDXbivXZ03u38/E=
+
+Name: com/microsoft/azure/storage/table/TableBatchOperation$1.class
+SHA1-Digest: J2yKUdADwAz/TqPwbvRRq/60vCI=
+
+Name: com/microsoft/azure/storage/RetryPolicyFactory.class
+SHA1-Digest: NLa0VlEskvemlNkmOIeHyHV7El4=
+
+Name: com/microsoft/azure/storage/blob/CloudBlob$12.class
+SHA1-Digest: AuyW9smP9QQ8IDvdgeP/Um6oOYE=
+
+Name: com/microsoft/azure/storage/queue/QueueRequestOptions.class
+SHA1-Digest: vZ7btO4u4x1hwj69AjoDUs1bqV0=
+
+Name: com/microsoft/azure/storage/blob/CloudPageBlob.class
+SHA1-Digest: XvWIbcF//peF/eNKvA+NMzj5H4I=
+
+Name: com/microsoft/azure/storage/table/EntityResolver.class
+SHA1-Digest: MgWek/ZvmpmiE0yRXDbp9qu5bak=
+
+Name: com/microsoft/azure/storage/core/ExecutionEngine$1.class
+SHA1-Digest: +agWNMBg5PzQ/95psDwu61Eveas=
+
+Name: com/microsoft/azure/storage/StorageUri$1.class
+SHA1-Digest: 7ZTR77JK9MbXHYRfYFdhI5WmZEc=
+
+Name: com/microsoft/azure/storage/Permissions.class
+SHA1-Digest: jVgUGLypoagM+ihXJbMSI3HDeJs=
+
+Name: com/microsoft/azure/storage/blob/LeaseAction.class
+SHA1-Digest: 4tSNhTKAFok7Ozk0TRbjVDy7mOY=
+
+Name: com/microsoft/azure/storage/blob/CloudBlob$4.class
+SHA1-Digest: 18FJDfSwl4GZlgzppDqAzMJ9e9g=
+
+Name: com/microsoft/azure/storage/SharedAccessAccountService.class
+SHA1-Digest: TyXaFfHr9hoWRQVdNIT4GnP59u8=
+
+Name: com/microsoft/azure/storage/blob/BlobOutputStream$1.class
+SHA1-Digest: iq6C3Yc5LUoUTytOxEPthPb0ovk=
+
+Name: com/microsoft/azure/storage/queue/QueueMessageSerializer.class
+SHA1-Digest: nk58zQmX+05zg59m5clu8SO9ySQ=
+
+Name: com/microsoft/azure/storage/core/JsonUtilities.class
+SHA1-Digest: kRJmD7KS4Sij3Hv/Zyerf0iScJA=
+
+Name: com/microsoft/azure/storage/queue/CloudQueueClient$1.class
+SHA1-Digest: TbcHlcpWc8prjQM09vX0ozERi3Q=
+
+Name: com/microsoft/azure/storage/blob/CloudBlob$1.class
+SHA1-Digest: JZtJXNXlhzlF+25J8ZPYK6xxV4c=
+
+Name: com/microsoft/azure/storage/GeoReplicationStatus.class
+SHA1-Digest: NHNoqweFx9pS3FQY6PyvKWEIlrY=
+
+Name: com/microsoft/azure/storage/queue/CloudQueue$2.class
+SHA1-Digest: sqN+0Xr63UA9W3QYDtOXIUJLDvc=
+
+Name: com/microsoft/azure/storage/table/DynamicTableEntity.class
+SHA1-Digest: Cov0Z9S0hRoQjaYaiaa4g9tYvgo=
+
+Name: com/microsoft/azure/storage/file/CloudFile$4.class
+SHA1-Digest: jDUdt8pOs4VBel2+2dYfbyHOozg=
+
+Name: com/microsoft/azure/storage/table/TableStorageErrorDeserializer.
+ class
+SHA1-Digest: c2B6QC1DwCmSfFyndbfY10sNH7I=
+
+Name: com/microsoft/azure/storage/table/Ignore.class
+SHA1-Digest: mjnpCJYcN7JH+qo7vPvFsfAu1vs=
+
+Name: com/microsoft/azure/storage/blob/ContainerListHandler.class
+SHA1-Digest: OFxYuWqsHtcGtOhAshwbh0wnMsQ=
+
+Name: com/microsoft/azure/storage/DoesServiceRequest.class
+SHA1-Digest: 1D3gmo+U6smD6dhAsXCY+ckRI5c=
+
+Name: com/microsoft/azure/storage/blob/CopyState.class
+SHA1-Digest: xF/NNvRtOlsyMhNzoufzxKNal9U=
+
+Name: com/microsoft/azure/storage/blob/BlobConstants.class
+SHA1-Digest: 0T+4gxVHfYQbSIS7qyWQ7QPZ/OY=
+
+Name: com/microsoft/azure/storage/blob/CloudBlobContainer$7.class
+SHA1-Digest: mrwqvqitp4jUpghxylQnxypoo5Y=
+
+Name: com/microsoft/azure/storage/file/CloudFileShare$6.class
+SHA1-Digest: /lNzCdxeqrhDzjRz/1+5BOhPmAQ=
+
+Name: com/microsoft/azure/storage/table/TableRequestOptions.class
+SHA1-Digest: 9g0yFb5ejl/2x/+SkvRaSvR2onA=
+
+Name: com/microsoft/azure/storage/CorsProperties.class
+SHA1-Digest: 1SualHsRTNWgMtURSb6PeHYHyxU=
+
+Name: com/microsoft/azure/storage/blob/ContainerListingDetails.class
+SHA1-Digest: liBMt7GRcIfn+nTX6nkB8Z6weBQ=
+
+Name: com/microsoft/azure/storage/blob/CloudBlobClient.class
+SHA1-Digest: XVEP8n8DDUli2GO9Kr+W0GGgKxk=
+
+Name: com/microsoft/azure/storage/RequestResult.class
+SHA1-Digest: Gg5rHio3ic9C+VFdmWi5+s2B9iw=
+
+Name: com/microsoft/azure/storage/analytics/LogRecordStreamReader.clas
+ s
+SHA1-Digest: A4e68yOiJiTgJG4OOhWec8jeKgY=
+
+Name: com/microsoft/azure/storage/blob/LeaseDuration.class
+SHA1-Digest: 4KZu6hS2cPrn3Y3UlQVWQhS8FeE=
+
+Name: com/microsoft/azure/storage/blob/BlobAttributes.class
+SHA1-Digest: ZSe/53ZdTuuaTNahstpPSNiC8vk=
+
+Name: com/microsoft/azure/storage/blob/BlobType.class
+SHA1-Digest: zKQVoi5nv7F0ttAytStjrEAtM9E=
+
+Name: com/microsoft/azure/storage/table/EdmType.class
+SHA1-Digest: T/ulTJRMvRD9zlwXuZvrbwFwpkE=
+
+Name: com/microsoft/azure/storage/StorageCredentialsAccountAndKey.clas
+ s
+SHA1-Digest: 8Ad7Fbbb7ozeDGzTUDPzS4I2LSg=
+
+Name: com/microsoft/azure/storage/blob/CloudAppendBlob.class
+SHA1-Digest: IPv3MUaGSz+S765UI3ecH9eZ/Uk=
+
+Name: com/microsoft/azure/storage/table/MimeHeader.class
+SHA1-Digest: YqlfXQCvUR5WNRmKViqGJ9fAiiI=
+
+Name: com/microsoft/azure/storage/core/CanonicalizerFactory.class
+SHA1-Digest: /v6FfyaAuQV7tEbpbgvZadB01r0=
+
+Name: com/microsoft/azure/storage/file/CloudFileDirectory$3.class
+SHA1-Digest: fuFwSk1bUbQ4Cn9YC4Rs5GRL47U=
+
+Name: com/microsoft/azure/storage/file/ListFileItem.class
+SHA1-Digest: l3UdWnOaKMZQuiNUJ4nMydhWzuw=
+
+Name: com/microsoft/azure/storage/RetryInfo.class
+SHA1-Digest: djt0hbbwQCyciELLkHY4ELtaYC8=
+
+Name: com/microsoft/azure/storage/blob/BlobOutputStream.class
+SHA1-Digest: 8P3rL7ABJJbV7fKfweuOhX1LWCA=
+
+Name: com/microsoft/azure/storage/ServiceStatsHandler.class
+SHA1-Digest: UTEvaf9A8Pg+vdvsf7pkLMJLayg=
+
+Name: com/microsoft/azure/storage/table/TableDeserializer.class
+SHA1-Digest: gSok9+lF/+l0ddae2WB1S7e0tVc=
+
+Name: com/microsoft/azure/storage/core/BaseRequest.class
+SHA1-Digest: QCyJOx7Xa6Yf6XMuGlzxjwiZx38=
+
+Name: com/microsoft/azure/storage/file/FileRangeHandler.class
+SHA1-Digest: UDtoZY4uqBRrGz0KTEqeCM+EtxE=
+
+Name: com/microsoft/azure/storage/blob/PageOperationType.class
+SHA1-Digest: PaRBFU7sI4u+ulHlfkzc005YTc4=
+
+Name: com/microsoft/azure/storage/table/TableOperation$2.class
+SHA1-Digest: ioBNmKhUEnHI7dLp2gfOVySA6f0=
+
+Name: com/microsoft/azure/storage/core/StorageRequest$1.class
+SHA1-Digest: tCAC7qI204SwFzRvJCWcTPhtzsw=
+
+Name: com/microsoft/azure/storage/blob/SharedAccessBlobHeaders.class
+SHA1-Digest: Iu/A1CuVNub4IqeAcugkY16YLU8=
+
+Name: com/microsoft/azure/storage/blob/CloudBlobContainer$2.class
+SHA1-Digest: 3eWIECwl6z1cEQsx6t7gwfGXrgA=
+
+Name: com/microsoft/azure/storage/SharedAccessAccountResourceType.clas
+ s
+SHA1-Digest: IhCM/0OnOppOOp7dn34i/8qb+ng=
+
+Name: com/microsoft/azure/storage/blob/CloudBlob$9.class
+SHA1-Digest: etVucRbbpB1o/x3kpFXsiYhNvt8=
+
+Name: com/microsoft/azure/storage/file/FileProperties.class
+SHA1-Digest: INd2T2ZhU8w/gWpRT6BDfpNuMHM=
+
+Name: com/microsoft/azure/storage/file/CloudFile$3.class
+SHA1-Digest: kF+hTazyqc9oyNqqwNVnslZansM=
+
+Name: com/microsoft/azure/storage/RequestOptions.class
+SHA1-Digest: ybx6DHtC/GXVQhIiLJ1j1TimcRY=
+
+Name: com/microsoft/azure/storage/analytics/LogRecordIterable.class
+SHA1-Digest: vxC2lkz27snIwEy581qqK9EUndI=
+
+Name: com/microsoft/azure/storage/blob/BlobContainerProperties.class
+SHA1-Digest: XuhS6mLx84ixPmLFgyWAe+Ob/nQ=
+
+Name: com/microsoft/azure/storage/blob/CloudBlob$8.class
+SHA1-Digest: yBvKnEgoVhoBudP4w1mH3oKy7Hg=
+
+Name: com/microsoft/azure/storage/blob/CloudBlobContainer$9.class
+SHA1-Digest: iq/qOo8E0y9s0xqaRTHp/3dfCJc=
+
+Name: com/microsoft/azure/storage/BaseEvent.class
+SHA1-Digest: 0t8XdEgE7xamCPX09cdjk25t0L0=
+
+Name: com/microsoft/azure/storage/file/FileRangeOperationType.class
+SHA1-Digest: lT3j56xgju9vr8sGLZZqODoVmEM=
+
+Name: com/microsoft/azure/storage/file/CloudFile$7.class
+SHA1-Digest: jEICMpqBsjr1VJhhG01AO9TWWVc=
+
+Name: com/microsoft/azure/storage/ServiceClient$2.class
+SHA1-Digest: G1qkWJ/ti9waYuZSdsdv2NKGcV8=
+
+Name: com/microsoft/azure/storage/queue/CloudQueueClient.class
+SHA1-Digest: ZUu6kAKT4JvuNBKSDIbws9hr2sk=
+
+Name: com/microsoft/azure/storage/table/TableOperationType.class
+SHA1-Digest: 6Syt2ffAglYJNBSsPB6tfBQUMww=
+
+Name: com/microsoft/azure/storage/table/ODataPayload.class
+SHA1-Digest: 9juYHJBpXT2hZHAN111z5cSnF3k=
+
+Name: com/microsoft/azure/storage/StorageErrorCode.class
+SHA1-Digest: htTVZJgSrMbfK3bT9wqJWfyU0Mc=
+
+Name: com/microsoft/azure/storage/table/StoreAs.class
+SHA1-Digest: hWE12XwoZZdonNp4aUPB6DqE6VI=
+
+Name: com/microsoft/azure/storage/blob/BlockSearchMode.class
+SHA1-Digest: wMa3qQnf8hhkVPjmw9l2ZJKGNQQ=
+
+Name: com/microsoft/azure/storage/StorageCredentialsAnonymous.class
+SHA1-Digest: uqcQrS0zBqRXim4aNR9ENxpv2ZY=
+
+Name: com/microsoft/azure/storage/file/CloudFileDirectory$2.class
+SHA1-Digest: PKRZyIrl6/i486FSgVL9TXxJQCk=
+
+Name: com/microsoft/azure/storage/StorageCredentials.class
+SHA1-Digest: 4mwp8Og1y5mXh4L+7gsqQMEcdpA=
+
+Name: com/microsoft/azure/storage/analytics/CloudAnalyticsClient.class
+SHA1-Digest: zqHRjx4JkpPXm9lcZtFBiw4fCvs=
+
+Name: com/microsoft/azure/storage/core/LazySegmentedIterable.class
+SHA1-Digest: Mx1sFKQQ7RGJS16sSqOOPIY5rpk=
+
+Name: com/microsoft/azure/storage/ServiceStats.class
+SHA1-Digest: VjkM1AQYmuMUFRrVidsM3O5xhBk=
+
+Name: com/microsoft/azure/storage/file/FileServiceProperties.class
+SHA1-Digest: 4Bbkb5BUfDKn+IIyEYnJvpkLqpo=
+
+Name: com/microsoft/azure/storage/blob/CloudAppendBlob$1.class
+SHA1-Digest: kAdSdKz6qsVq7LmcQ1VH2p27cxw=
+
+Name: com/microsoft/azure/storage/blob/CloudAppendBlob$2.class
+SHA1-Digest: c2+AYes1x8FjfjjlIZN9LsyNBds=
+
+Name: com/microsoft/azure/storage/MetricsProperties.class
+SHA1-Digest: Lvym4j/IhpU92vfxnv8vzfEjvYc=
+
+Name: com/microsoft/azure/storage/queue/QueueListingDetails.class
+SHA1-Digest: NJlua/lobYBLOc/UwXnip9BophQ=
+
+Name: com/microsoft/azure/storage/blob/LeaseState.class
+SHA1-Digest: 1SfquGIvPxI5zbSSqZSzhBlz/Eg=
+
+Name: com/microsoft/azure/storage/file/SharedAccessFilePermissions.cla
+ ss
+SHA1-Digest: qUOh25mjCaDo083RMRETem8uqnY=
+
+Name: com/microsoft/azure/storage/queue/CloudQueue.class
+SHA1-Digest: wJxnyWCTlHfdZm/X/J2okBGcnDY=
+
+Name: com/microsoft/azure/storage/ResponseReceivedEvent.class
+SHA1-Digest: i30rvevxaTbMJ6rCB+VO8To81B8=
+
+Name: com/microsoft/azure/storage/file/CloudFileShare$4.class
+SHA1-Digest: Z4op1CRH6/YNxUPmHkmOYbjQYP0=
+
+Name: com/microsoft/azure/storage/table/TableResult.class
+SHA1-Digest: Ceoo0gokOxPSKcjiUvSLDtOHhBk=
+
+Name: com/microsoft/azure/storage/StorageException.class
+SHA1-Digest: OYnMZ4We8ZkHLJKgretP+fVDMZM=
+
+Name: com/microsoft/azure/storage/core/StorageCredentialsHelper.class
+SHA1-Digest: +FM8kcewWC98+qzC9BNRq1aZt2A=
+
+Name: com/microsoft/azure/storage/ServiceClient$1.class
+SHA1-Digest: /ct1AUaZ+wTtvOAAvIc/oGfUC+Y=
+
+Name: com/microsoft/azure/storage/blob/CloudBlobContainer$12.class
+SHA1-Digest: VuHxQQCXHFK15cnQNwUuDBOqt/o=
+
+Name: com/microsoft/azure/storage/table/CloudTable$2.class
+SHA1-Digest: CsX8bJowdK8hs7ZqirTtzIRjXsY=
+
+Name: com/microsoft/azure/storage/blob/CloudBlobContainer.class
+SHA1-Digest: owE+UI7aM71KL7gLtyYnCiGqGqc=
+
+Name: com/microsoft/azure/storage/SharedAccessPolicy.class
+SHA1-Digest: GmPGaMxbD1HaMR/F9XHt4jtQpTI=
+
+Name: com/microsoft/azure/storage/MetricsLevel.class
+SHA1-Digest: 2QUPPyC0DF1tq7krFs7K7tbAF08=
+
+Name: com/microsoft/azure/storage/blob/CloudBlockBlob$4.class
+SHA1-Digest: GkN74jb6WHX1FS3cQjqH8w2VU/o=
+
+Name: com/microsoft/azure/storage/table/TablePermissions.class
+SHA1-Digest: VBpikZALQVp307oH06T8jcEuG0o=
+
+Name: com/microsoft/azure/storage/queue/CloudQueue$3.class
+SHA1-Digest: I7VDq0IsSBQnJ/SktaiBWZ09J7I=
+
+Name: com/microsoft/azure/storage/IPRange.class
+SHA1-Digest: zej9OIb1R+pffCNbnAW+0NZy1kU=
+
+Name: com/microsoft/azure/storage/GeoReplicationStats.class
+SHA1-Digest: hy7aDzS0R/QGbDv8pgAYNp1sEtU=
+
+Name: com/microsoft/azure/storage/queue/QueueConstants.class
+SHA1-Digest: ODPp1kz+lsWzIhW//75PGSW3Dy0=
+
+Name: com/microsoft/azure/storage/table/TableQuery.class
+SHA1-Digest: P0pegIclgALfwJ98L9lRdT0+N3o=
+
+Name: com/microsoft/azure/storage/table/TablePayloadFormat.class
+SHA1-Digest: ZPUDJPZs1Ij2QBUBWdL8m/m8IEQ=
+
+Name: com/microsoft/azure/storage/table/CloudTableClient$1.class
+SHA1-Digest: iSq7MzP4dtmX7jbDrHn3zfargIE=
+
+Name: com/microsoft/azure/storage/queue/CloudQueue$7.class
+SHA1-Digest: VO8//OyHrgjXGgfJBS4f0Cmghxs=
+
+Name: com/microsoft/azure/storage/file/CloudFileShare$8.class
+SHA1-Digest: ENiszkMdJzvJMBXwaPbMcrcKB2A=
+
+Name: com/microsoft/azure/storage/blob/CloudBlobDirectory.class
+SHA1-Digest: iCdUa6YJItV7S3ddtvPr3t1MQzE=
+
+Name: com/microsoft/azure/storage/file/CloudFileShare$2.class
+SHA1-Digest: +/N+ZNmV3Rvlf7TeBxyGACzp/0Y=
+
+Name: com/microsoft/azure/storage/file/FileShareProperties.class
+SHA1-Digest: z4mKOHyhUKfHc3LvYLjAlDj8avA=
+
+Name: com/microsoft/azure/storage/table/TableEntitySerializer.class
+SHA1-Digest: Mrs3XlHN2GSbk9S6Olc+zBWLeLU=
+
+Name: com/microsoft/azure/storage/queue/MessageUpdateFields.class
+SHA1-Digest: hRsqcvXPG1qVFxI4ke9B3WrISdM=
+
+Name: com/microsoft/azure/storage/SharedAccessPolicyHandler.class
+SHA1-Digest: I8Iyr6Y+U1bKW8FVPKNuP1nhCMA=
+
+Name: com/microsoft/azure/storage/RetryPolicy.class
+SHA1-Digest: /w2wVBsk/QshcHHeL2bJUpoBlsY=
+
+Name: com/microsoft/azure/storage/blob/BlockListHandler.class
+SHA1-Digest: U+E5EyeNmECWcXQKlp8xVJ01Zp8=
+
+Name: com/microsoft/azure/storage/core/Logger.class
+SHA1-Digest: r+2fjpo8lmTxUSBhdAneognr8EM=
+
+Name: com/microsoft/azure/storage/queue/CloudQueue$4.class
+SHA1-Digest: pyJ6YpGRsv+t1IZD/g3K1Cz9mlk=
+
+Name: com/microsoft/azure/storage/blob/DeleteSnapshotsOption.class
+SHA1-Digest: Td5m8uMwPD44ZrarqfvCu0ESASA=
+
+Name: com/microsoft/azure/storage/blob/CloudBlockBlob.class
+SHA1-Digest: 8MXtvmE8AdDXMBglZPn/gYlC6tQ=
+
+Name: com/microsoft/azure/storage/file/CopyState.class
+SHA1-Digest: DbFqRXNeL4AiNE/yR5BH8I82i5M=
+
+Name: com/microsoft/azure/storage/blob/BlobRequest.class
+SHA1-Digest: 4SWOKGvMXJBFaB9OGMQEFK9c4PQ=
+
+Name: com/microsoft/azure/storage/queue/CloudQueue$8.class
+SHA1-Digest: nLaEjq2Of7baJVsplfHCwrZVvEI=
+
+Name: com/microsoft/azure/storage/analytics/CloudAnalyticsClient$1.cla
+ ss
+SHA1-Digest: SNBZJbIYz/aRN1P9cl1QvLT+KD4=
+
+Name: com/microsoft/azure/storage/file/FileRequest.class
+SHA1-Digest: EtCarZWK8spGemStdhMoebiNLaA=
+
+Name: com/microsoft/azure/storage/table/SharedAccessTablePermissions.c
+ lass
+SHA1-Digest: 1ohH7apqhV9/fmH+gsyGddRRUrM=
+
+Name: com/microsoft/azure/storage/table/TableUpdateType.class
+SHA1-Digest: LZ2iitXFo+JwMXx5LVcjHB29DQk=
+
+Name: com/microsoft/azure/storage/file/CloudFile$2.class
+SHA1-Digest: buIRBIlN/iAA9Ap9uuQPq4Ztjq4=
+
+Name: com/microsoft/azure/storage/ResultSegment.class
+SHA1-Digest: AIl98gfOdUJ4/uv3rPiAH7Nwu4I=
+
+Name: com/microsoft/azure/storage/file/ShareListHandler.class
+SHA1-Digest: ZLyKzPnH/b2NAjtBt2KL/B4LwB4=
+
+Name: com/microsoft/azure/storage/table/TableServiceException.class
+SHA1-Digest: nzx5qaHoA/uZWexMldYgqfM5TMI=
+
+Name: com/microsoft/azure/storage/analytics/LogRecordIterator.class
+SHA1-Digest: IQN5aKXRzA2D1OIRlUkND3DpUaU=
+
+Name: com/microsoft/azure/storage/blob/CloudPageBlob$4.class
+SHA1-Digest: vVOpZkNEFUsdjfONJmi6q0tbUDQ=
+
+Name: com/microsoft/azure/storage/blob/BlobRequest$1.class
+SHA1-Digest: kMfVKc2eBXl8lbzysEQsRLjml+U=
+
+Name: com/microsoft/azure/storage/file/CloudFile$6.class
+SHA1-Digest: e6w9ngvjw6JE4Z0bn7GRCT60h1M=
+
+Name: com/microsoft/azure/storage/table/TableEntity.class
+SHA1-Digest: V5R/Bvf8jJTQ4JMOu/qlRqntczw=
+
+Name: com/microsoft/azure/storage/blob/PageRangeHandler.class
+SHA1-Digest: VzR89U/nEZiMxOfhdwmQ04sXz5c=
+
+Name: com/microsoft/azure/storage/core/SR.class
+SHA1-Digest: F6j5FRCFGPvEhcx7NL2uzouTFKc=
+
+Name: com/microsoft/azure/storage/ResultContinuationType.class
+SHA1-Digest: s9qQENjwa2mobIWkPzT6og6Fdlw=
+
+Name: com/microsoft/azure/storage/blob/CopyStatus.class
+SHA1-Digest: DlFjwRJOefR4jYF1+xBmvL2HF/Y=
+
+Name: com/microsoft/azure/storage/core/NetworkInputStream.class
+SHA1-Digest: SPzHC+N19lEpq7xFBD7FNqMZhtI=
+
+Name: com/microsoft/azure/storage/file/CloudFile$11.class
+SHA1-Digest: zGSN2WkY9GHykCzLBcR7i4qcD1Y=
+
+Name: com/microsoft/azure/storage/blob/CloudBlob$7.class
+SHA1-Digest: PvJTKDsdoXdfwimLHOkNetQfnRk=
+
+Name: com/microsoft/azure/storage/core/BaseResponse.class
+SHA1-Digest: WjaS/TXzLXkUPSQXlzmbLC8rk3o=
+
+Name: com/microsoft/azure/storage/blob/CloudBlob$11.class
+SHA1-Digest: qA2lSbDUwQywBIWniucvqosdG9s=
+
+Name: com/microsoft/azure/storage/blob/CloudBlobClient$1.class
+SHA1-Digest: 0FJdMihs8kI6MdckqUCdKIO+M0M=
+
+Name: com/microsoft/azure/storage/blob/CloudPageBlob$1.class
+SHA1-Digest: T0sASLdua/4Mf5LOtzImhGSli0Y=
+
+Name: com/microsoft/azure/storage/core/SharedAccessSignatureHelper.cla
+ ss
+SHA1-Digest: Eq2xcGVn7Mc/SsWm9Pt802LPwaI=
+
+Name: com/microsoft/azure/storage/blob/BlobContainerPublicAccessType.c
+ lass
+SHA1-Digest: 4l1Rpaf2bGIws8RQfftyyckMVyo=
+
+Name: com/microsoft/azure/storage/analytics/LogBlobIterable.class
+SHA1-Digest: Tikj7x99b4uEr/UmMNpOYd3xDP4=
+
+Name: com/microsoft/azure/storage/file/CloudFile$8.class
+SHA1-Digest: 2tQnoBWncsE/oWXCxaAAUy2QKHQ=
+
+Name: com/microsoft/azure/storage/table/QueryTableOperation$1.class
+SHA1-Digest: 5gn5PMultcJ7d4Y6LCn23xB5gBc=
+
+Name: com/microsoft/azure/storage/core/ListResponse.class
+SHA1-Digest: X0koQ1rUaIgLFrXPZ32+N7AkUXQ=
+
+Name: com/microsoft/azure/storage/file/CloudFileShare$1.class
+SHA1-Digest: rHAvCCDcXOdvHvwcYKa775cY9KY=
+
+Name: com/microsoft/azure/storage/file/CloudFile$10.class
+SHA1-Digest: Ey/enjhB25xToEv9qRdsuEH6DqY=
+
+Name: com/microsoft/azure/storage/table/TableConstants$ErrorConstants.
+ class
+SHA1-Digest: nEiVnmkxs0PzyYbocO0EeYWYn2g=
+
+Name: com/microsoft/azure/storage/file/SharedAccessFilePolicy.class
+SHA1-Digest: y3JVQs9LWpMjzH7TdGUQX25p9vU=
+
+Name: com/microsoft/azure/storage/file/CloudFile$9.class
+SHA1-Digest: lXV9F7d0Y+h9yysfZUUhdqHIQS4=
+
+Name: com/microsoft/azure/storage/table/ODataConstants.class
+SHA1-Digest: fqQhh+aLfU7US87AV/5DGEgFHnU=
+
+Name: com/microsoft/azure/storage/queue/CloudQueue$10.class
+SHA1-Digest: HdqNW/n7H5isqN6PxqaEVeU43A0=
+
+Name: com/microsoft/azure/storage/file/CopyStatus.class
+SHA1-Digest: gtSeXjgZMhxfZMlcrXhyZZcjSdA=
+
+Name: com/microsoft/azure/storage/blob/BlockEntryListSerializer.class
+SHA1-Digest: ITJsafssfLa01nJbmYbWsQBEi60=
+
+Name: com/microsoft/azure/storage/file/CloudFile$5.class
+SHA1-Digest: L3eIAvWNwdcutiKmWbVOzpEF9to=
+
+Name: com/microsoft/azure/storage/file/CloudFileShare$5.class
+SHA1-Digest: eVRjkcNbrUjsWIvBnF2gTvSAI70=
+
+Name: com/microsoft/azure/storage/ServiceProperties.class
+SHA1-Digest: ZbJEKv340dj+Zrt3xl0QZcyUU3w=
+
+Name: com/microsoft/azure/storage/file/CloudFileClient.class
+SHA1-Digest: TA+b36Ry+GIPBz26ndDBHC7URDg=
+
+Name: META-INF/maven/com.microsoft.azure/azure-storage/pom.xml
+SHA1-Digest: yAQo/quWfWcH2IBjQlbE15fDTwA=
+
+Name: com/microsoft/azure/storage/core/ListingContext.class
+SHA1-Digest: NdRGxJZ1RdPvRJtrkb0MHH8EbgQ=
+
+Name: com/microsoft/azure/storage/blob/BlobContainerPermissions.class
+SHA1-Digest: rm7zdt9E/MbnzqpSdF2l3qOH3FY=
+
+Name: com/microsoft/azure/storage/file/CloudFileShare$9.class
+SHA1-Digest: RlFA15v95xhzncewQ+bqUgQZgBE=
+
+Name: com/microsoft/azure/storage/file/FileListHandler.class
+SHA1-Digest: Nypqs8kYK6YFpu26FLQLaKrhdgE=
+
+Name: com/microsoft/azure/storage/LocationMode.class
+SHA1-Digest: zO0J8UxZirRoSkaHdwX2R58qy3s=
+
+Name: com/microsoft/azure/storage/blob/BlobInputStream.class
+SHA1-Digest: XAxBP/F65BkGcdQQOyBQV5BchHw=
+
+Name: com/microsoft/azure/storage/blob/CloudBlob$10.class
+SHA1-Digest: LY4bEh9X64eLGYkTj9FIQbHiDP8=
+
+Name: com/microsoft/azure/storage/table/CloudTableClient$3.class
+SHA1-Digest: wKh4lnBqiY5GoEkYq7Aa1BSRHJM=
+
+Name: com/microsoft/azure/storage/table/TableResponse.class
+SHA1-Digest: Lv2tKf+slub9qbbuvq8r860+kDk=
+
+Name: com/microsoft/azure/storage/file/FileConstants.class
+SHA1-Digest: 1xrAcB2d18Dk9r0sp5JYb8umbIg=
+
+Name: com/microsoft/azure/storage/table/TableServiceEntity.class
+SHA1-Digest: meOa677fFTs16Z8FiKAvt67wnLw=
+
+Name: com/microsoft/azure/storage/file/FileShareAttributes.class
+SHA1-Digest: wrdmjuWgG1z0QXFx7mWwRQVjOUA=
+
+Name: com/microsoft/azure/storage/blob/BlockEntry.class
+SHA1-Digest: c8FDovys+B32ctcVYgeLj1UCXyE=
+
+Name: com/microsoft/azure/storage/queue/CloudQueueMessage.class
+SHA1-Digest: n7aWbEiicGj2PkQiaS22Vx4v5uU=
+
+Name: com/microsoft/azure/storage/table/PropertyPair.class
+SHA1-Digest: LfEq6astxMjqTPBQ0hX3Lc6zcGI=
+
+Name: com/microsoft/azure/storage/file/CloudFile$1.class
+SHA1-Digest: +IyGjME5gVirrZOSUePTXxJY5AY=
+
+Name: com/microsoft/azure/storage/core/ExecutionEngine.class
+SHA1-Digest: y2g8o3oXUdjFo4AsX72Z7MK6VmM=
+
+Name: com/microsoft/azure/storage/blob/CloudBlobContainer$11.class
+SHA1-Digest: E0tgSqV+kiYj3MqEI/o8W3y3A7c=
+
+Name: com/microsoft/azure/storage/analytics/LogRecord.class
+SHA1-Digest: jUBivtYNitXKK5fkTZCtnA+P1oI=
+
+Name: com/microsoft/azure/storage/Constants$QueryConstants.class
+SHA1-Digest: OB1UXsA2Xoix3vHpTWrdXTt1VI8=
+
+Name: com/microsoft/azure/storage/core/PathUtility.class
+SHA1-Digest: u9/MVsgZCz326A3Plzy5B0AIT8M=
+
+Name: com/microsoft/azure/storage/table/TableQuery$QueryComparisons.cl
+ ass
+SHA1-Digest: T8YspJuVIL3zKWu5BHim0OoYWqA=
+
+Name: com/microsoft/azure/storage/core/SegmentedStorageRequest.class
+SHA1-Digest: EZxPAQ6oEi6JeRKtDi1DvotfxBs=
+
+Name: com/microsoft/azure/storage/StorageErrorCodeStrings.class
+SHA1-Digest: xOjtHr+QWEhD1MK3Ok4N8IKP/EQ=
+
+Name: com/microsoft/azure/storage/LoggingOperations.class
+SHA1-Digest: fIJn0fASktL0ViDk1Bf7lTmVtoU=
+
+Name: com/microsoft/azure/storage/core/LogConstants.class
+SHA1-Digest: l7V71cd9jfV56vV94zG0ZvOxdWI=
+
+Name: com/microsoft/azure/storage/table/TableBatchOperation.class
+SHA1-Digest: QfQaI0DT1wnTgOCrOev14ISB6Qs=
+
+Name: com/microsoft/azure/storage/table/TableRequestOptions$PropertyRe
+ solver.class
+SHA1-Digest: J514uUUYt3po+PLs4bCGXDY1zR0=
+
+Name: com/microsoft/azure/storage/blob/BlobListHandler.class
+SHA1-Digest: +PX5PhD+EOgLeUiFhq9++Iptqtg=
+
+Name: com/microsoft/azure/storage/core/StorageRequest.class
+SHA1-Digest: wrDO6DmvaR2ShoGmV0yIFvXyp5I=
+
+Name: com/microsoft/azure/storage/Constants.class
+SHA1-Digest: vkJphuYPIeWmHeq29NehHDiv/o4=
+
+Name: com/microsoft/azure/storage/table/TableOperation$4.class
+SHA1-Digest: +ArtmQxuyCMLTyTGwe+AxRB/p/k=
+
+Name: com/microsoft/azure/storage/blob/ListBlobsResponse.class
+SHA1-Digest: N7zOvLJk5TxQ3fKqs5uAP0wN/Bo=
+
+Name: com/microsoft/azure/storage/file/FileOutputStream$1.class
+SHA1-Digest: FHyReb9OL52t37N8pqAi5RakJ/w=
+
+Name: com/microsoft/azure/storage/queue/CloudQueue$12.class
+SHA1-Digest: hG3tyjHhiG2m/7Ou4OL61Lc0urs=
+
+Name: com/microsoft/azure/storage/file/FileSharePermissions.class
+SHA1-Digest: eBJuj6SFnyGsr9/FNX5I4dZ/6Dw=
+
+Name: com/microsoft/azure/storage/table/CloudTable.class
+SHA1-Digest: HyLcY49+vy0OuQKbKCOYHmPfwRM=
+
+Name: com/microsoft/azure/storage/analytics/LogBlobIterator.class
+SHA1-Digest: 6jJjEDR/bPY+HGisdFLo/CU9n8g=
+
+Name: com/microsoft/azure/storage/queue/QueueRequest.class
+SHA1-Digest: eayDiSBmdoxyLiFogRXgc65deuc=
+
+Name: com/microsoft/azure/storage/queue/CloudQueue$11.class
+SHA1-Digest: odw23lbW1KWicuhf6lqyi1czEPs=
+
+Name: com/microsoft/azure/storage/file/ShareListingDetails.class
+SHA1-Digest: nwFcBsKg7Klp6wVpgTgVS6n8YsY=
+
+Name: com/microsoft/azure/storage/queue/SharedAccessQueuePermissions.c
+ lass
+SHA1-Digest: 10A1Xx+BmF9RuD1OQ3pPk2Uxagw=
+
+Name: com/microsoft/azure/storage/SendingRequestEvent.class
+SHA1-Digest: 4sCK2J749blUMnaJCBSRhFbpZqs=
+
+Name: com/microsoft/azure/storage/CloudStorageAccount.class
+SHA1-Digest: VSiIWgktnHtHOaKT9LpxTjvTz3Y=
+
+Name: com/microsoft/azure/storage/table/CloudTableClient$2.class
+SHA1-Digest: rZrLkcOpDEvJL7zwtSkR3Mti/Uc=
+
+Name: com/microsoft/azure/storage/core/WrappedByteArrayOutputStream.cl
+ ass
+SHA1-Digest: fJXhNuxtJGXWhzUhlKyObb8otvQ=
+
+Name: com/microsoft/azure/storage/table/SharedAccessTablePolicy.class
+SHA1-Digest: PtVafgys3Lnui5Q5BNBAfWkCggA=
+
+Name: com/microsoft/azure/storage/SharedAccessAccountPermissions.class
+SHA1-Digest: aqgOoWfaFIAubGccTXegaEis0Go=
+
+Name: com/microsoft/azure/storage/table/MimeHelper.class
+SHA1-Digest: f++JtDZBTZ8cjnXWxAYqlyeb8ww=
+
+Name: com/microsoft/azure/storage/blob/SharedAccessBlobPolicy.class
+SHA1-Digest: swLLupkfRVZuGrJJic4/f59CJvE=
+
+Name: com/microsoft/azure/storage/file/CloudFileDirectory.class
+SHA1-Digest: dH40Khx5vUPtM5XKEjIx3Ynjwcg=
+
+Name: com/microsoft/azure/storage/file/SharedAccessFileHeaders.class
+SHA1-Digest: 4hTGfNfwrCt2dXahEFByrhkhKzQ=
+
+Name: com/microsoft/azure/storage/CorsRule.class
+SHA1-Digest: Rqi2mrtZmQM+mpjYqEy/m7/DnWA=
+
+Name: com/microsoft/azure/storage/core/RequestLocationMode.class
+SHA1-Digest: l1Rv93h5JbHoCVVegS+imcB3mwA=
+
+Name: com/microsoft/azure/storage/table/QueryTableOperation.class
+SHA1-Digest: XN1PonF7GlfpSZv8tJpzYFBoQuo=
+
+Name: com/microsoft/azure/storage/RetryExponentialRetry.class
+SHA1-Digest: TGWBMkqTUiXB0SEKygqPTEg3rTo=
+
+Name: com/microsoft/azure/storage/file/FileOutputStream.class
+SHA1-Digest: sGC/021EDiMQLAVIKu1an9y7I5M=
+
+Name: com/microsoft/azure/storage/queue/SharedAccessQueuePolicy.class
+SHA1-Digest: Fe1cdzKEOW/hORZO9uHR4hJ+K14=
+
+Name: com/microsoft/azure/storage/file/CloudFileDirectory$6.class
+SHA1-Digest: lyz4Fv25Y73RME8s65xmiw1JVbo=
+
+Name: com/microsoft/azure/storage/blob/CloudBlob$3.class
+SHA1-Digest: 5rCiSgDbFuxXhKKkjMXt2AZE8IQ=
+
+Name: com/microsoft/azure/storage/StorageEvent.class
+SHA1-Digest: B8Lf++w+5Q59mCqQw/gVLcKe5+k=
+
+Name: com/microsoft/azure/storage/file/CloudFileDirectory$5.class
+SHA1-Digest: cz24jnjZ1dmaAlu/PlTsXEj2ZrY=
+
+Name: com/microsoft/azure/storage/blob/CloudBlobContainer$6.class
+SHA1-Digest: e7WeA9pjZfs+UJD/t7Uwp+317oQ=
+
+Name: com/microsoft/azure/storage/queue/CloudQueue$6.class
+SHA1-Digest: br3AOUZ/QljODaiiGbGm1Od1clc=
+
+Name: com/microsoft/azure/storage/analytics/StorageService.class
+SHA1-Digest: ZYU46GN4o/vl3zutWE47Ihqbrvc=
+
+Name: com/microsoft/azure/storage/table/TableOperation$1.class
+SHA1-Digest: /p8vM2965NGf8tXn+3M8IgJovr4=
+
+Name: com/microsoft/azure/storage/NameValidator.class
+SHA1-Digest: DZQEX+68zsaN+db9IU93t8QZpAs=
+
+Name: com/microsoft/azure/storage/blob/CloudBlobContainer$4.class
+SHA1-Digest: 5r6KsIxAPJqNc5N4JtxKjTmNzsU=
+
+Name: com/microsoft/azure/storage/blob/CloudPageBlob$2.class
+SHA1-Digest: aeJUrsylRJrz7CN2Ptg7dfWYbGE=
+
+Name: com/microsoft/azure/storage/blob/CloudPageBlob$3.class
+SHA1-Digest: vlbWNux/fwOqciCoHBrkZUdfuMA=
+
+Name: com/microsoft/azure/storage/blob/BlobContainerAttributes.class
+SHA1-Digest: DIWhh6zWn3aQrtciOu9K4fiR1SA=
+
+Name: com/microsoft/azure/storage/core/Canonicalizer.class
+SHA1-Digest: YLxbmM0Q6l2GMA6aDdgry8ppJms=
+
+Name: com/microsoft/azure/storage/table/TableRequest.class
+SHA1-Digest: B240SPWuFebYDq1S3A4jlyaanBU=
+
+Name: com/microsoft/azure/storage/blob/BlobOutputStream$2.class
+SHA1-Digest: +8V1iJI8bapbASsVfv6tAIlBj0k=
+
+Name: com/microsoft/azure/storage/ServicePropertiesHandler.class
+SHA1-Digest: Qyo8+EpsGNSbXZxHup1jLzckHAc=
+
+Name: com/microsoft/azure/storage/OperationContext.class
+SHA1-Digest: auqBrRRFV9F6NUzMr8iQg07nyvc=
+
+Name: com/microsoft/azure/storage/file/CloudFileDirectory$4.class
+SHA1-Digest: Yov1xjjefOyaxmF4LYay4yj2z1Q=
+
+Name: com/microsoft/azure/storage/core/Utility.class
+SHA1-Digest: AaCLqLOLu4Zp9q6rrvY/LeznV/M=
+
+Name: com/microsoft/azure/storage/table/EntityProperty.class
+SHA1-Digest: LQbW8icl4HnQg6ns918ZRIyfgMo=
+
+Name: com/microsoft/azure/storage/queue/CloudQueue$5.class
+SHA1-Digest: MvpX9qPxp5bdWKf5QyccIOOYeBo=
+
+Name: com/microsoft/azure/storage/file/FileDirectoryAttributes.class
+SHA1-Digest: U2TYt7MY0xVxcRq9E/OY+n0QkGc=
+
+Name: com/microsoft/azure/storage/RetryLinearRetry.class
+SHA1-Digest: PbhNDn1dFd46kRLGsSU5smeGZnQ=
+
+Name: com/microsoft/azure/storage/blob/LeaseStatus.class
+SHA1-Digest: fZvRgEJwwq3gnEokaGjYEn59wmQ=
+
+Name: com/microsoft/azure/storage/core/StreamMd5AndLength.class
+SHA1-Digest: bQ3+yA735shQABkJ7McuClmhPpw=
+
+Name: com/microsoft/azure/storage/StorageUri.class
+SHA1-Digest: UoVc5drXfyJuwZ9MrefHTmNfRvI=
+
+Name: com/microsoft/azure/storage/file/FileInputStream.class
+SHA1-Digest: vDBX3xyvQ8+I8axtqZDpDTGlZ7w=
+
+Name: com/microsoft/azure/storage/blob/BlobRequestOptions.class
+SHA1-Digest: 8UU2rdJ98h06Zd2l1vML1cwY/xA=
+
+Name: com/microsoft/azure/storage/AccessCondition.class
+SHA1-Digest: I2xAqqVV8K9pHYGbhwQLEhN38fc=
+
+Name: com/microsoft/azure/storage/core/BlobQueueFileCanonicalizer.clas
+ s
+SHA1-Digest: ylMer+HmUswtt9SlZFTuasN5Clw=
+
+Name: com/microsoft/azure/storage/file/FileRequestOptions.class
+SHA1-Digest: cjFjyTln9VS+wxk8Gou043WC2Bw=
+
+Name: com/microsoft/azure/storage/blob/CloudBlockBlob$1.class
+SHA1-Digest: VlG+h2XCzqo2ebhRWePoR8flcnM=
+
+Name: com/microsoft/azure/storage/queue/CloudQueue$1.class
+SHA1-Digest: gTBGFTgYIcv2/aCGJrtRjVzLrZw=
+
+Name: com/microsoft/azure/storage/blob/CloudBlob$6.class
+SHA1-Digest: rzqE6yJbLNct7uLEssaNk3B63pQ=
+
+Name: com/microsoft/azure/storage/table/TableConstants.class
+SHA1-Digest: zztW/90tN9RWyHYbOUbK/igLloo=
+
+Name: com/microsoft/azure/storage/queue/QueueMessageHandler.class
+SHA1-Digest: 2Zxh9yP37OTFShnEEfm/7MgY8QI=
+
+Name: com/microsoft/azure/storage/table/TableOperation$3.class
+SHA1-Digest: lvMuYRn7ClAHe4r42Xm2iST8KZc=
+
+Name: com/microsoft/azure/storage/core/StorageErrorHandler.class
+SHA1-Digest: KWjtDZWgombvryRT4Kd5/NKO+LU=
+
+Name: com/microsoft/azure/storage/SharedAccessProtocols.class
+SHA1-Digest: swu/UM3+iMSPXHa+IHIltz168lg=
+
+Name: com/microsoft/azure/storage/queue/CloudQueue$13.class
+SHA1-Digest: 7zeZ/9Tq6cPr4uXEzlkNQKj6Y9Y=
+
+Name: com/microsoft/azure/storage/SharedAccessHeaders.class
+SHA1-Digest: kRFcRh5RyaqurMkmAb42b6ax2+Y=
+
+Name: com/microsoft/azure/storage/LoggingProperties.class
+SHA1-Digest: Aa7DpcT6oIcSBKYg8NLW+40I4cE=
+
+Name: com/microsoft/azure/storage/blob/CloudBlockBlob$2.class
+SHA1-Digest: 69GSv8k4TDCM64TqHC6Y2p7kR4M=
+
+Name: com/microsoft/azure/storage/blob/CloudBlobContainer$1.class
+SHA1-Digest: zk8Pg9AlRKIymH+Eal3rUG+w9Lk=
+
+Name: com/microsoft/azure/storage/blob/CloudBlobContainer$13.class
+SHA1-Digest: vOV+njJMZL/q12NVDHwW2KCExwk=
+
+Name: com/microsoft/azure/storage/StorageLocation.class
+SHA1-Digest: m77aKCtH7goVzGlk9vWIDCA6/KE=
+
+Name: com/microsoft/azure/storage/blob/CloudBlobContainer$3.class
+SHA1-Digest: SrMMq32TQ47zedZSpx0AywuQsUM=
+
+Name: com/microsoft/azure/storage/blob/CloudBlob$14.class
+SHA1-Digest: G7/kUhsJWVm9lfAgy4TetSAJpmQ=
+
+Name: com/microsoft/azure/storage/file/FileResponse.class
+SHA1-Digest: bKcYBFNpj3P8T+2chFJRIfA7eR4=
+
+Name: com/microsoft/azure/storage/StorageEventMultiCaster.class
+SHA1-Digest: YKp9lQg2Rb1JQUmy/N4052xu4DA=
+
+Name: com/microsoft/azure/storage/blob/CloudBlobContainer$5.class
+SHA1-Digest: 2L9XycfULtAkUki6gcokjsp0sH8=
+
+Name: com/microsoft/azure/storage/file/FileDirectoryProperties.class
+SHA1-Digest: b3l22jfjqAq/h3ClHWvlTE+m3Ns=
+
+Name: com/microsoft/azure/storage/queue/QueueResponse.class
+SHA1-Digest: 2OuAo5Znnlo0O+V6eXgyxq+JdHk=
+
+Name: com/microsoft/azure/storage/ServiceClient$3.class
+SHA1-Digest: IzQSpg2jk6oFtw6JED59ZgCTlhA=
+
+Name: com/microsoft/azure/storage/queue/QueueListHandler.class
+SHA1-Digest: d4po0Zf3u4j03Z31PQSBD0YuR0E=
+
+Name: com/microsoft/azure/storage/blob/CloudBlockBlob$3.class
+SHA1-Digest: p+R8Ja5JSS2WD0HMTtLMMMpqX/g=
+
+Name: com/microsoft/azure/storage/table/TableOperation.class
+SHA1-Digest: UC+E62OozyWFsxfwv3o0eW8P3Zo=
+
+Name: com/microsoft/azure/storage/file/ShareStats.class
+SHA1-Digest: wWXjGq2tTMWI6s6B0IhYLDOxeoU=
+
+Name: com/microsoft/azure/storage/blob/CloudBlobContainer$8.class
+SHA1-Digest: aJcPg19FQmmMJMPCMv3GjcY3Agw=
+
+Name: com/microsoft/azure/storage/ServiceClient.class
+SHA1-Digest: nQW+nrI0qzCy/Eh6cg6X5XYFrMo=
+
+Name: com/microsoft/azure/storage/blob/BlockListingFilter.class
+SHA1-Digest: gLI+npR66k4TUeBgryQ2uyEgJVs=
+
+Name: com/microsoft/azure/storage/blob/SharedAccessBlobPermissions.cla
+ ss
+SHA1-Digest: KZzCx6oXVB+bHKLjZ7Y2KrpmmQQ=
+
+Name: com/microsoft/azure/storage/RetryingEvent.class
+SHA1-Digest: i4pHyEVodIfnkap/sgePVBxVSas=
+
+Name: com/microsoft/azure/storage/RetryContext.class
+SHA1-Digest: r9mgRwFa3yput9lXWDHdW53exQw=
+
+Name: com/microsoft/azure/storage/file/CloudFileShare.class
+SHA1-Digest: yUER5q5VF8eu104217KvrEWGpI8=
+
+Name: com/microsoft/azure/storage/Constants$AnalyticsConstants.class
+SHA1-Digest: X5jyxoDprQor00KfQDHc1m8ui+I=
+
+Name: com/microsoft/azure/storage/file/CloudFile.class
+SHA1-Digest: d2X8oUMtOWyJ8Krl9uZuZ/91fSU=
+
+Name: com/microsoft/azure/storage/StorageExtendedErrorInformation.clas
+ s
+SHA1-Digest: iMG0gmYu4a2g1+O+NtpGXHB6mQ0=
+
+Name: com/microsoft/azure/storage/CorsHttpMethods.class
+SHA1-Digest: IHUKNUNc/VFAfd1UiLWoHBfc3eI=
+
+Name: com/microsoft/azure/storage/blob/PageRange.class
+SHA1-Digest: 3Akyu6+qN77O5etK3FuaqRGjcvM=
+
+Name: com/microsoft/azure/storage/SharedAccessPolicySerializer.class
+SHA1-Digest: o9/2sJvfvWHG+3rIaVJAjjVN/jU=
+
+Name: com/microsoft/azure/storage/blob/BlobListingContext.class
+SHA1-Digest: qcp8IPi03gyR8NV511G2w79MMy4=
+
+Name: com/microsoft/azure/storage/blob/LeaseAction$1.class
+SHA1-Digest: zLfqm5HUegudwu7rgPPWZYSObeQ=
+
+Name: com/microsoft/azure/storage/queue/CloudQueue$9.class
+SHA1-Digest: jUHQCyuX6ZpDvxWME8dDuMyLXuA=
+
+Name: com/microsoft/azure/storage/file/CloudFile$12.class
+SHA1-Digest: /593fn0I5fa4dk6mKpMHSz8WBIw=
+
+Name: com/microsoft/azure/storage/file/CloudFileShare$3.class
+SHA1-Digest: thOBbAIfoBvrnCpPGiVfJeotjhI=
+
+Name: com/microsoft/azure/storage/table/TableQuery$Operators.class
+SHA1-Digest: EASjF+zbbFl59NhMDFtbsE54E8Y=
+
+Name: com/microsoft/azure/storage/file/CloudFileShare$7.class
+SHA1-Digest: RGeyzMznS+OFEaZYgu4x40E5sQQ=
+
+Name: com/microsoft/azure/storage/table/MimePart.class
+SHA1-Digest: +TrQiRfuT8CJGnCSxa18xLcsKtM=
+
+Name: com/microsoft/azure/storage/table/CloudTableClient.class
+SHA1-Digest: 2seV+WYBDB8ZjWORw9bxve01q94=
+
+Name: com/microsoft/azure/storage/core/Base64.class
+SHA1-Digest: AAGC6cZnka9QjcJxgEXMsgDVnbw=
+
+Name: com/microsoft/azure/storage/file/CloudFileClient$1.class
+SHA1-Digest: RPJMR4MWe2seu7u8s5mV/EIJjbc=
+
+Name: com/microsoft/azure/storage/file/FileAttributes.class
+SHA1-Digest: qRV5NUx/iBjR2306PiQZZRkbGAo=
+
+Name: com/microsoft/azure/storage/blob/CloudBlobContainer$10.class
+SHA1-Digest: 5RVtLs4G2jBcJYUBl60Y0wu6Tjo=
+
+Name: com/microsoft/azure/storage/core/TableCanonicalizer.class
+SHA1-Digest: ywoPdxdo2L8RXLrCXP/vdetPD5o=
+
+Name: com/microsoft/azure/storage/SharedAccessAccountPolicy.class
+SHA1-Digest: ZhC8CfNik74IzG7OjgGSZXrSFTg=
+
+Name: com/microsoft/azure/storage/queue/QueuePermissions.class
+SHA1-Digest: vY5HiqcoNq7BnrvinaA1gLh1Ock=
+
+Name: com/microsoft/azure/storage/file/ShareStatsHandler.class
+SHA1-Digest: ldFlwI1Ggk8MJ2FSGfGTRXJx2wc=
+
+Name: com/microsoft/azure/storage/blob/BlobResponse.class
+SHA1-Digest: l5wo2RVVWlJt7C9ND2vRccvOh7Q=
+
+Name: com/microsoft/azure/storage/blob/BlobListingDetails.class
+SHA1-Digest: hWTcTNEjDbCqWkk1JF++zw5CUAw=
+
+Name: com/microsoft/azure/storage/ResultContinuation.class
+SHA1-Digest: n7LBGMOqPK1k/Lxq76YFl27VHBM=
+
+Name: com/microsoft/azure/storage/blob/CloudBlob$13.class
+SHA1-Digest: Nzj6eC8YWRjhdZMi91msYVMJdpM=
+
+Name: com/microsoft/azure/storage/blob/CloudBlob$2.class
+SHA1-Digest: e4MenxR26AtfKRgvt3mdf32iZvk=
+
+Name: com/microsoft/azure/storage/queue/QueueMessageType.class
+SHA1-Digest: cQdKLkZJVUfdy8y8XwDh/jfHxk0=
+
+Name: com/microsoft/azure/storage/blob/CloudBlob.class
+SHA1-Digest: NVUKWKu2q22Wl2LWk+bMV3WQgmU=
+
+Name: com/microsoft/azure/storage/blob/ListBlobItem.class
+SHA1-Digest: DetGDL62S2A8j1pcDqpxmMXyAF4=
+
+Name: com/microsoft/azure/storage/table/CloudTable$1.class
+SHA1-Digest: hvw+8jl6Q068RiZ7kPuQR+k7lNE=
+
+Name: META-INF/maven/com.microsoft.azure/azure-storage/pom.properties
+SHA1-Digest: BRFmW44F23XBtlrpuxc3P4LHwQc=
+
+Name: com/microsoft/azure/storage/RequestCompletedEvent.class
+SHA1-Digest: 5JgsAVmTboNIIgxJuwD5lVPaM7I=
+
+Name: com/microsoft/azure/storage/blob/CloudBlob$5.class
+SHA1-Digest: oqll/ezVAG81MjDHT8zPHFus6Es=
+
+Name: com/microsoft/azure/storage/Constants$HeaderConstants.class
+SHA1-Digest: MgcGd/KMvJYUzH/YmkERbVT5P8A=
+
+Name: com/microsoft/azure/storage/blob/BlobProperties.class
+SHA1-Digest: VivLqx68Vm4gqIxzisxnid/c8jA=
+
+Name: com/microsoft/azure/storage/core/LazySegmentedIterator.class
+SHA1-Digest: GdOIHMfEEjXIM+CyLzIo9a73CtQ=
+
+Name: com/microsoft/azure/storage/StorageCredentialsSharedAccessSignat
+ ure.class
+SHA1-Digest: t4o+PyVVgLG3d4Mok5JTiXxqxSM=
+
+Name: com/microsoft/azure/storage/table/TableConstants$HeaderConstants
+ .class
+SHA1-Digest: r0z/H4FHhPBVaAydt8PRKaDnLoY=
+
+Name: com/microsoft/azure/storage/file/FileRange.class
+SHA1-Digest: ZQHA7Av8WbRY1RG8sP9pKcfITmc=
+
+Name: com/microsoft/azure/storage/blob/BlobOutputStream$3.class
+SHA1-Digest: tws49TBJZpc6S7sQL6fHIIy5z4o=
+
+Name: com/microsoft/azure/storage/core/UriQueryBuilder.class
+SHA1-Digest: pyXtbRl4nBrxJz3LmFJOhHm3ANE=
+
+Name: com/microsoft/azure/storage/core/Utility$1.class
+SHA1-Digest: IrLaORvCipik6FrWJc96WcTBSHA=
+
+Name: com/microsoft/azure/storage/file/CloudFileDirectory$1.class
+SHA1-Digest: thitUjFD1YqtFjihQPpJ/ElsmVU=
+
