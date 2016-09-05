@@ -13,7 +13,7 @@ import org.apache.spark.rdd._
 import org.apache.spark.mllib.recommendation.{ALS, Rating, MatrixFactorizationModel}
 
 /**
-  * Created by Kalyanni Veloo on 19/7/2015.
+  * Created by Kalyanni Veloo on 19/7/2016.
   */
 object RealTimeRecommender {
   def main(args:Array[String]) : Unit = {
