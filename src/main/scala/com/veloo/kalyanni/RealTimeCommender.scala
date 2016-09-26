@@ -71,9 +71,9 @@ object RealTimeRecommender {
 
     // The ALS algorithm requires three parameters: matrix factors rank, number of iteration, and lambda
     // Select different values for ALS parameters and measure the RMSE for each combination to select the best combination:
-    val ranks = List(8, 12)
-    val lambdas = List(0.1, 10.0)
-    val numIters = List(10, 20)
+    val ranks = List(8, 12, 15)
+    val lambdas = List(0.01, 0.1, 10.0)
+    val numIters = List(10, 15, 20)
     var bestModel: Option[MatrixFactorizationModel] = None
     var bestValidationRmse = Double.MaxValue
     var bestRank = 0
